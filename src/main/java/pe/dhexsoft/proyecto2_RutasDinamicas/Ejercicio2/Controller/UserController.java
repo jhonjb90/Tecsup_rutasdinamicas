@@ -1,4 +1,4 @@
-package pe.dhexsoft.proyecto2_RutasDinamicas.Controller;
+package pe.dhexsoft.proyecto2_RutasDinamicas.Ejercicio2.Controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
