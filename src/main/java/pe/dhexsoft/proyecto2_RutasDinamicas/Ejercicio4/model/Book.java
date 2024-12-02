@@ -6,6 +6,7 @@ public class Book {
     private String title;
     private String author;
     private String state;
+    private String dato;
 
     public String getTitle() {
         return title;
@@ -13,6 +14,14 @@ public class Book {
 
     public void setTitle(String title) {
         this.title = title;
+    }
+
+    public String getDato() {
+        return dato;
+    }
+
+    public void setDato(String dato) {
+        this.dato = dato;
     }
 
     public String getAuthor() {
